@@ -1,10 +1,16 @@
 ### Hi there 👋
 
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=giver-yell&show_icons=true&theme=dark&count_private=true" />
+</a>
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=giver-yell&exclude_repo=github-readme-stats,anuraghazra.github.io&show_icons=true&theme=dark&hide=makefile" />
+</a>
+
 <!--
 **giver-yell/giver-yell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
